@@ -1,26 +1,26 @@
 {
-  "store_id": 48469,
-  "name": "ticosepi",
   "domain": "ticosepi.netlify.app",
-  "short_name": "ticosepi",
-  "description": "ticosepi",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/ticosepi",
+  "logo": "/img/uploads/logo_ticosepi.png",
+  "name": "Ticos EPI",
+  "short_name": "ticosepi",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/ticosepi",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 48469,
+  "description": "ticosepi",
+  "large_icon": "/img/large-icon.png"
 }
