@@ -18,8 +18,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/altura?Altura",
+      "/calcados?Calçados",
+      "/capacetes?Capacetes",
+      "/luvas?Luvas",
+      "/protetores-auriculares?Protetores Auriculares",
+      "/oculos?Óculos",
+      "/respiradores?Respiradores"
+    ],
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
