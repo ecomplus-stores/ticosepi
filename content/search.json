@@ -3,13 +3,6 @@
     {
       "type": "search-engine",
       "enabled": true
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 3000
     }
   ]
 }
