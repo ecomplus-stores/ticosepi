@@ -8,9 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/slide_use_marluvas.png"
+          "start": "2022-04-03T20:02:05.634Z",
+          "end": "2022-04-03T20:02:05.658Z",
+          "img": "/img/uploads/banner_usemarluvas_1200x300.webp",
+          "link": "/marluvas",
+          "alt": "Seja qual for sua atividade, use Marluvas!"
+        },
+        {
+          "start": "2022-04-03T20:04:01.175Z",
+          "end": "2022-04-03T20:04:01.197Z",
+          "img": "/img/uploads/banner_kalipso_1200x300.webp",
+          "link": "/kalipso",
+          "alt": "Óculos e Luvas de proteção Kalipso"
         }
       ]
     },
