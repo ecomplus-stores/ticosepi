@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.894fa63d582e736ba7928f46648bdea7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.472e21179a973eb23339e93495a4d126.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a569651cf5f258a21fe8b519a55a9758.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9979e551fc8ebf83ea879d88f55ffc53.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4412dd22a02aa0a698a377e96c13f44e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ticos EPI",
+  "short_name": "Ticos EPI",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Ticos EPI é uma loja que comercializa toda a linha de equipamentos de proteção individual. Somos distribuidores dos calçados Marluvas. Vendemos para todo o Brasil.",
+  "background_color": "#ffffff",
+  "theme_color": "#e4501f"
+}
