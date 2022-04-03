@@ -24,15 +24,15 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "<br><br>\n\n\\---- Nossas Marcas ----"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": null,
       "autoplay": 9000
-    },
-    {
-      "type": "info-bar",
-      "enabled": false
     },
     {
       "type": "collection-shelf",
@@ -43,6 +43,10 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
