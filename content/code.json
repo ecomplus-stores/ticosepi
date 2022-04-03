@@ -1,5 +1,5 @@
 {
-  "css": ".login__oauth, .login__btn--facebook, .login__btn--google, .login__btn--windowslive {\n  display: none;\n}",
+  "css": ".login__oauth, .login__btn--facebook, .login__btn--google, .login__btn--windowslive {\n  display: none;\n}\n\n.product__short-stock {\ndisplay: none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
