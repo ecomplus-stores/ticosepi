@@ -4,7 +4,7 @@
   "primary_color": "#e4501f",
   "theme": {
     "bootswatch": "united",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ticosepi",
