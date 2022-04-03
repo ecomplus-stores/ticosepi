@@ -1,5 +1,5 @@
 {
-  "css": ".login__oauth, .login__btn--facebook, .login__btn--google, .login__btn--windowslive {\n  display: none;\n}\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n@media(min-width: 767px) {\n  #logo {\n    max-height: 200px !important;\n  } \n}",
+  "css": ".login__oauth, .login__btn--facebook, .login__btn--google, .login__btn--windowslive {\n  display: none;\n}\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n@media(min-width: 767px) {\n  #logo {\n    max-height:95px !important;\n  } \n}",
   "html_head": "",
   "html_body": ""
 }
